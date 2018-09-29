@@ -1,0 +1,19 @@
+git init
+
+cd na pasta
+
+git status
+
+git config --global user.name NOME
+
+git config --global user.email EMAIL
+
+git config --list
+
+git remote add origin link do repositório 
+
+git add nomedoarquivo
+
+git commit -m "Primeiro commit."
+
+git push -u origin master
